@@ -9,5 +9,5 @@ class App < Sinatra::Base
     (params[:number].to_i ** 2).to_s 
   end
 
-
+  
 end
